@@ -1,3 +1,42 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: verdana;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+h1, h2 {
+    color: white;
+}
 h1 {
-    color:darkblue
+    font-size: 50px;
+    font-weight: normal;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+p {
+    color:gray;
+    font-size: 21px;
+}
+a {
+    color:aquamarine;
+    font-size: 16px;
+}
+.icon-phone {
+    align-self: center;
+    height: 108px;
+    width: 64px;
+}
+.image-camp {
+    align-self: center;
+    height: 527px;
+    width: 896px;
+}
+footer {
+    text-align: right;
 }
