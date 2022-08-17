@@ -27,15 +27,19 @@ a {
     color:aquamarine;
     font-size: 16px;
 }
-.icon-phone {
+video {
+    height: 720px;
+    width: 404px;
     align-self: center;
-    height: 108px;
-    width: 64px;
 }
 .image-camp {
     align-self: center;
     height: 527px;
     width: 896px;
+}.icon-phone {
+    align-self: center;
+    height: 108px;
+    width: 64px;
 }
 footer {
     text-align: right;
